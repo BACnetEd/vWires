@@ -11,5 +11,6 @@ Virtual Wiring to test Ethernet and Serial networks - mostly for single-machine 
 * Real-time, slow and instantaneous modes for e.g. regression testing quickly, singlestepping/debugging complex protocols
 * Named wires
 * Thousands of instances of wires and applications possible
+* Configuration file input to preconfigure networks
 
   
