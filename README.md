@@ -1,5 +1,5 @@
 # vWires
-Virtual Wiring to test Ethernet and Serial networks
+Virtual Wiring to test Ethernet and Serial networks - mostly for single-machine emulation testing and network simulation
 
 # Intent
 * vWires library can be linked to any application, and if two or more applications are run on the same PC, they will be able to connect to each other over the Virtual Wiring
